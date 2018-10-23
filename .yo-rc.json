@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "gob.trabajo.satel",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "satel",
+    "packageName": "gob.trabajo.satel",
+    "packageFolder": "gob/trabajo/satel",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Zjk1YWMyYzAyMWQ4ZTlmZGI2NjY0MzdhY2JkMDM4NzA2MmRlZDM3OWE4OTA0YjI2MDQwNmNkNDBkZGM3MDhlNDBlNjUzZWYxZjE1OGUzODBmNTZlODE1ZmIwMzAyZTc0NTZhYWNhM2YzZDk4MGEyZGNiOTgzNWFhNmFlNzQ0Yjc=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es"
+    ]
+  }
+}
